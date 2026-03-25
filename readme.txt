@@ -10,6 +10,7 @@ I used:
 * SQLite
 * Matplotlib
 * Seaborn
+* Power BI
 
 
 1. Data cleaning using pandas
